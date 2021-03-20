@@ -31,7 +31,7 @@ https://www.icloud.com/shortcuts/6bddb091cc2047af886e1e889ec9234f
 
 ## 快速连接南京大学校园网
 
-初次添加需要设置**统一身份认证账户和密码**。
+初次添加需要设置**账户和密码**（就是`p.nju.edu.cn`你输入的那个）。
 
 https://www.icloud.com/shortcuts/8c787931dd94466fa2bbea98287ddfca
 
