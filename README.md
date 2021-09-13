@@ -31,6 +31,12 @@ https://www.icloud.com/shortcuts/6bddb091cc2047af886e1e889ec9234f
 
 ## 快速连接南京大学校园网
 
+### 2021.9.13 更新
+
+由于NJU自2021年9月15日起改用[强制统一身份认证登录](https://itsc.nju.edu.cn/3c/1d/c21415a539677/page.htm)，此快捷指令可能无效。
+
+### 原内容
+
 初次添加需要设置**账户和密码**（就是`p.nju.edu.cn`你输入的那个）。
 
 https://www.icloud.com/shortcuts/8c787931dd94466fa2bbea98287ddfca
